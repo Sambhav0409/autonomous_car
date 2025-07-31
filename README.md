@@ -1,4 +1,4 @@
-o# 🚗 Autonomous Car Project
+# 🚗 Autonomous Car Project
 
 ![Demo](demo/the_car.gif)
 
