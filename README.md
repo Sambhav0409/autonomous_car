@@ -1,6 +1,6 @@
-# 🚗 Autonomous Car Project
+o# 🚗 Autonomous Car Project
 
-![Demo](/the_car.gif)
+![Demo](demo/the_car.gif)
 
 ## 🔍 Overview
 
